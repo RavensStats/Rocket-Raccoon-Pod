@@ -143,7 +143,7 @@ export const tabs = [
                                     {
                 icon: 'home',
                 label: 'Stark44 Main Menu',
-                dest: `http://stark44.com/Sleeper/MarvelVSDC/Menu.html/`,
+                dest: `http://stark44.com/Sleeper/MarvelVSDC/Menu.html`,
             },
         ]
     },
